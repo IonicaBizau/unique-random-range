@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Generate unique random numbers, for a given range.
 
 #### Params
+
 - **Number** `min`: The lowest number.
 - **Number** `max`: The highest number.
 
